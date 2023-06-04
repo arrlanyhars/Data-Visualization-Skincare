@@ -12,4 +12,4 @@ Kaggle
 [Here](https://github.com/arrlanyhars/scraping-jobstreetvn-scrapy/blob/master/jobstreetvn/spiders/posts_spider.py)
 
 <h2>Tools</h2>
-<a href="" target="" rel=""> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" alt="tableau" width="40" height="40"/> </a> <a href="" target="" rel=""> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="" target="" rel=""> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" alt="tableau" width="70" height="40"/> </a> <a href="" target="" rel=""> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
