@@ -17,9 +17,7 @@ Kaggle
 
 ![Capture](https://github.com/arrlanyhars/Data-Visualization-Skincare/assets/71999653/ae4fbc04-6cec-416d-a963-6edc6f9ae920)
 
-<a><img
-  src="https://github.com/arrlanyhars/Data-Visualization-Skincare/assets/71999653/ae4fbc04-6cec-416d-a963-6edc6f9ae920
-  width="80" height="40"/> </a>
+<img src="https://github.com/arrlanyhars/Data-Visualization-Skincare/assets/71999653/ae4fbc04-6cec-416d-a963-6edc6f9ae920" width="80" height="40"/>
 
 <h2>Tools</h2>
 <a href="" target="" rel=""> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" alt="tableau" width="70" height="40"/> </a> <a href="" target="" rel=""> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
