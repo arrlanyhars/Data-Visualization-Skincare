@@ -15,7 +15,7 @@ Kaggle
 
 [Here](https://public.tableau.com/app/profile/rindangcahyaning/viz/SkincareReview/Dashboard2)
 
-<a href="" target="" rel=""> <img src="https://drive.google.com/file/d/1dIDOjHucqzU8ht59xyTagIE9lz1Lwu7H/view?usp=sharing" alt=""/> </a>
+<p> <img src="https://drive.google.com/file/d/1dIDOjHucqzU8ht59xyTagIE9lz1Lwu7H/view?usp=sharing" alt=""/> </p>
 
 <h2>Tools</h2>
 <a href="" target="" rel=""> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" alt="tableau" width="70" height="40"/> </a> <a href="" target="" rel=""> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
