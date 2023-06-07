@@ -1,7 +1,7 @@
 # Data Visualization - Skincare Review
 
 <h2>Objective</h2>
-In this project, I create dashboard using Tableau and Figma to visualize skincare review data from kaggle. This dashboard can help us to decide what skincare that recommend to buy based on the review score, we can also see how many people give the review for each brand.
+In this project, we create dashboard using Tableau and Figma to visualize skincare review data from kaggle. This dashboard can help us to decide what skincare that recommend to buy based on the review score, we can also see how many people give the review for each brand.
 
 <h2>Team</h2>
 
