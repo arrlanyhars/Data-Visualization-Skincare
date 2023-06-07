@@ -5,7 +5,7 @@ In this project, I create dashboard using Tableau and Figma to visualize skincar
 
 <h2>Team</h2>
 
-[Rindang](https://github.com/rindangchi)
+[Me](https://github.com/arrlanyhars) , [Rindang](https://github.com/rindangchi)
 
 <h2>Datasource</h2>
 
